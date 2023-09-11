@@ -1,6 +1,6 @@
 ## Hi there! :wave:
 
-<p>Welcome to my page! </br> I'm Tobias, currently living and working in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Karlskrona, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Tobias, currently living and working in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Växjö, Sweden</b>. </p>
 
 <p>I like to <b>code</b> things :octocat:, play <b>video games</b> :hurtrealbad: and ride in <b>rally cars</b> :car:</p>
 
